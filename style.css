@@ -11,7 +11,7 @@ body{
 .button{
     width: 100px;
     height: 30px;
-    background: yellow;
+    background: blue;
     border-radius: 5px;
     border:2px solid red;
     text-align: center;
